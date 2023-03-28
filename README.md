@@ -1,4 +1,4 @@
-# sqflite_crud
+# sqflite_crud Image picker used as well
 
 A new Flutter project.
 
